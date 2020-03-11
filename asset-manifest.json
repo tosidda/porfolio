@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/porfolio/static/js/main.fc6939b7.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.fc6939b7.chunk.js.map",
+    "runtime-main.js": "/porfolio/static/js/runtime-main.6602b64a.js",
+    "runtime-main.js.map": "/porfolio/static/js/runtime-main.6602b64a.js.map",
+    "static/js/2.add3a0f6.chunk.js": "/porfolio/static/js/2.add3a0f6.chunk.js",
+    "static/js/2.add3a0f6.chunk.js.map": "/porfolio/static/js/2.add3a0f6.chunk.js.map",
+    "index.html": "/porfolio/index.html",
+    "precache-manifest.f62e119b0bb539d9e1b01986986abf50.js": "/porfolio/precache-manifest.f62e119b0bb539d9e1b01986986abf50.js",
+    "service-worker.js": "/porfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/porfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.add3a0f6.chunk.js.LICENSE.txt": "/porfolio/static/js/2.add3a0f6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/porfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/sidda.jpg": "/porfolio/static/media/sidda.e0186d29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6602b64a.js",
+    "static/js/2.add3a0f6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fc6939b7.chunk.js"
+  ]
+}
